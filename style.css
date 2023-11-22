@@ -1,12 +1,12 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: rgb(39, 15, 39);
 }
 
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/lioness.png');
     background-size:cover;
     position:relative;
 }
